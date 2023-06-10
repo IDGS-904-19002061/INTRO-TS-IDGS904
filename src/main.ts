@@ -5,6 +5,9 @@ import './intro-ts/01-intro-bas.ts'
 import './intro-ts/02-objetos-interfaces-arreglos.ts'
 import './intro-ts/03-funciones.ts'
 import './intro-ts/04-desesctructura.ts'
+import './intro-ts/05-clases.ts'
+import './intro-ts/06-herencia.ts'
+import './intro-ts/07-genericos.ts'
 import { setupCounter } from './counter.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
